@@ -19,9 +19,9 @@ body {
 .container {
   width: 90vw;
   height: 90vh;
-  background-color: rgba(0, 51, 255, 0.25);
+  background-color: rgba(17, 28, 70, 0.75);
   border-radius: 12px;
   backdrop-filter: blur(19px), saturate(180%);
   border: 1px solid rgba(255, 255, 255, 0.125);
-
+  display: flex;
 }
